@@ -1,6 +1,7 @@
 {
-  "judul": "Update NYX",
-  "pesan": "VERSI 1.1 SUDAH TERSEDIA! INSTAL DI SALURAN SEKARANG!",
+  "judul": "Update wajib",
+  "pesan": "Versi 1.1 sudah tersedia. Update dulu untuk lanjut memakai NYX.",
   "link": "https://whatsapp.com/channel/0029VbDiqZoAe5VrhDVUHW0v",
-  "tampil": true
+  "tampil": true,
+  "versi_min": 39
 }
